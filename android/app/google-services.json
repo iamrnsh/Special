@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "149171589351",
+    "firebase_url": "https://melody0-e7530.firebaseio.com",
+    "project_id": "melody0-e7530",
+    "storage_bucket": "melody0-e7530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149171589351:android:59bdc7722ac4a1f28f1242",
+        "android_client_info": {
+          "package_name": "com.example.melody0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149171589351-6r9u36bisor0ehuv795be8bmn2sc6v5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn9mcVCVBIaj7lvzbuKMhVU2Ai6okB8kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149171589351-6r9u36bisor0ehuv795be8bmn2sc6v5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
